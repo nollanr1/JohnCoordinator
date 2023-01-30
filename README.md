@@ -1,7 +1,7 @@
 # JohnCoordinator
 An a way to coordinate "Everyone Is John" games over the internet.
 
-The intent of this project is to provide a simple character sheet for playing games of "Everyone is John" as described in the [rules given by Michael Sullivan](https://rtwolf.github.io/Everyone-is-John/).
+The intent of this project is to provide a simple character sheet for playing games of "Everyone is John" as described in the [rules given by Michael Sullivan](https://rtwolf.github.io/Everyone-is-John/), which are licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
 
 The roadmap for this project is as thus:
 - Initialize project plan  **<-- Currently *here***
